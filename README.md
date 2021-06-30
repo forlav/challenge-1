@@ -6,7 +6,7 @@ This test should be completed by you on your own, in your own time. Take as much
 
 ## Delivery instructions
 
-Download the instructions and example input file from this repo and, once done, put all project files in a .zip file and send it to your contact at Nuuvem.
+Download the instructions and example input file from this repo and, once done, put all project files in a .zip file and send it to your contact at Forlav.
 
 ## Project description
 
